@@ -32,7 +32,7 @@ jobs:
               chmod 777 config.sh
               source config.sh
               cd source
-              git fetch https://source.codeaurora.org/quic/la/kernel/$KERNEL_VERSION 'refs/tags*:refs/tags*'
+              git fetch https://git.codelinaro.org/clo/la/kernel/$KERNEL_VERSION 'refs/tags*:refs/tags*'
 
        - name: Finding best caf tag
          run: |
