@@ -1,4 +1,4 @@
-KERNEL_SOURCE=https://github.com/Genom-Project/android_kernel_xiaomi_ginkgo.git
-BRANCH=sdm-10-R
-KERNEL_VERSION=msm-4.14
-PLATFORM=*-SAIPAN.0
+KERNEL_SOURCE=https://github.com/mylove90/Samsung_SM-A155F_Kernel.git
+BRANCH=A14.0
+KERNEL_VERSION=common
+PLATFORM=*-5.10-2023-06
